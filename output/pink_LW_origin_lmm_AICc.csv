@@ -1,0 +1,3 @@
+"model","formula","k","logLik","AICc","delta_AICc","weight","origin_pct_diff","origin_pct_lower","origin_pct_upper"
+"origin + year","log_W ~ log_L + origin + Year_fac + (1 | set_id)",6,189.545857920417,-366.689801965237,0,0.572805885831551,-1.34972509103277,-4.16525398338714,1.54852122139291
+"origin only","log_W ~ log_L + origin + (1 | set_id)",5,188.194449744193,-366.103185202673,0.58661676256412,0.427194114168449,-1.58770326680089,-4.3816886844958,1.28792294131266
